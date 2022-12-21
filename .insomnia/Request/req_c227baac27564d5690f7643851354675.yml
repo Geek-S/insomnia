@@ -1,0 +1,21 @@
+_id: req_c227baac27564d5690f7643851354675
+type: Request
+parentId: fld_7e2f984b06634e20800126444b9bc6c7
+modified: 1671594071233
+created: 1671594057115
+url: https://ab11cb1d-7be8-4318-9dde-6f01a985710a.mock.pstmn.io/
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671594057115
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
